@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head> <meta name="google-site-verification" content="al_st2jLJ9GJc_ChXFbvwU8kFGNF0MlcWUfMZN5jDms" />
+<head><meta name="google-site-verification" content="al_st2jLJ9GJc_ChXFbvwU8kFGNF0MlcWUfMZN5jDms" />
 <title>Degree Calculator</title>
 <style>
   body { font-family: Arial; text-align: center; background: #f0f0f0; padding: 20px; }
